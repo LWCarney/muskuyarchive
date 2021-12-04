@@ -1,5 +1,6 @@
 field,display_name
 title,Title
-date,Date
+creator,Creator
+contributor,Contributor
 description,Description
 subject,Subjects
